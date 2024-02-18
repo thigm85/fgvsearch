@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fgvsearch"
+  site-url: "https://thigm85.github.io/fgvsearch"
+  description: "Lecture notes for search class"
+  repo-branch: master
+  repo-url: "https://github.com/thigm85/fgvsearch"
